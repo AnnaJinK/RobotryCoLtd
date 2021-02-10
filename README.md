@@ -1,7 +1,7 @@
 <div align=center>
 
-### Welcome To RoboTry 👋, 
-#### The Easiest Access To Robots
+## Welcome To RoboTry 👋, 
+### The Easiest Access To Robots
 ![Make simple, Learn with Fun!](http://robotry.co.kr/images/bg/bg_banner_main1.jpg)
 
 로보트리는 로봇과 가장 쉽게 친해질 수 있는 솔루션을 제공하는 회사입니다.
@@ -19,3 +19,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/robotry_/)](https://www.instagram.com/robotry_/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robotry@robotry.co.kr)](robotry@robotry.co.kr)
 </div>
+
+CEO Sang-Uk Ssody Ahn
+Deoksan Bldg 5F, 102-2, Goryeodae-ro, Seongbuk-gu, Seoul, Republic of Korea
